@@ -43,4 +43,4 @@
 ```
 
 
-##That's it! Now get to work!
+##Това е за сега :)
