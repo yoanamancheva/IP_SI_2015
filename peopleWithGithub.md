@@ -1,1 +1,1 @@
-* <name of user> <real name> <group>
+* (name of user) (real name) (group)
