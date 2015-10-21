@@ -1,3 +1,3 @@
 # IntroductionToProgramming_SI_2015
-Repo with all materials for IP course, Software Engineering, first year.
+Repo with all materials for Introduction to programming course, Software Engineering, first year.
 
