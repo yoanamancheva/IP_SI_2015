@@ -82,9 +82,9 @@
 Вход:
 ```
     Type exam: 1
-    Assessment оf exam: 5.80
+    Grade оf exam: 5.80
     Do you have a diploma?: yes
-    Assessment of diploma: 5.93
+    Grade of diploma: 5.93
 ```
 Изход:
 ```
